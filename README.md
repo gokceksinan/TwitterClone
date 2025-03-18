@@ -13,3 +13,6 @@
 - moment: It is a library that simplifies date and time handling in JavaScript.
 - react-icons: It is a library that allows easy use of icons in React projects.
 
+# GIF
+![twitterclone-ezgif](https://github.com/user-attachments/assets/09e1a371-af2b-4432-b64e-95187d0280d1)
+
