@@ -1,9 +1,15 @@
-# React + Vite
+# Twitter Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+- Project: Twitter Clone Project 
 
-Currently, two official plugins are available:
+- This project is a Twitter clone built with Firebase. Users can easily log in with their Google accounts and reset their passwords via email if forgotten. They can also create, like, edit, and delete posts within the app.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# TwitterClone
+- React(FrontEnd)
+- firebase: It is a cloud-based platform by Google that provides services like real-time database, authentication, and storage.
+- tailwindcss: It is a CSS framework for fast and flexible styling.
+- react-router-dom: It is a routing library that enables navigation in React applications without page refresh.
+- react-toastify: It is a library that makes it easy to display toast notifications.
+- uuid: It is a library used to generate unique identifiers (UUIDs) for objects or resources.
+- moment: It is a library that simplifies date and time handling in JavaScript.
+- react-icons: It is a library that allows easy use of icons in React projects.
+
